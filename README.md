@@ -61,8 +61,8 @@
 
 ### 程序流程图
 
-![avatar](/pic/1.png)
+![avatar](pic/1.png)
 
 ### 主界面展示
-![avatar](/pic/mainUI.png)
+![avatar](pic/mainUI.png)
 
